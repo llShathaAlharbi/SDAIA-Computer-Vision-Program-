@@ -13,14 +13,11 @@ Welcome to my portfolio for the Computer Vision Program provided by SDAIA Academ
 
 ## 📂 Repository Structure
 
-```text
-├── images/                   # Contains sample input images used for testing
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── basketball.jpg
-├── Assignment_1.ipynb        # Pixel Manipulation & Image Filtering
-├── Assignment_2.ipynb        # YOLO26 Object Detection & Summary Generation
-└── README.md  
+* 📁 images/ : Contains sample input images used for testing (`image1.jpg`, image2.jpg, `basketball.jpg`).
+* 📜 Assignment_1.ipynb : Pixel Manipulation & Image Filtering.
+* 📜 Assignment_2.ipynb : YOLO26 Object Detection & Summary Generation.
+* 📄 README.md : Documentation and program overview.
+  
 📝 Course Work & Assignments
 🔹 Assignment 1: Advanced Pixel-Level Manipulation
  Notebook: ⁠Assignment_1.ipynb⁠
