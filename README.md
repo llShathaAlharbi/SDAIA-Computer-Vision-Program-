@@ -42,7 +42,7 @@ Welcome to my portfolio for the Computer Vision Program provided by SDAIA Academ
 * Steps & Requirements:
   1. Upload a custom input image (e.g., basketball player with a ball).
   2. Run inference using the YOLO26 model (`yolo26n.pt`).
-  3. Apply custom confidence thresholding ($\text{CONFIDENCE\_THRESHOLD} \ge 0.50$).
+  3. Apply custom confidence thresholding (CONFIDENCE_THRESHOLD >=0.50).
   4. Manually draw bounding boxes and class labels on detected objects using OpenCV (without using built-in plot functions).
   5. Programmatically generate a natural language summary of all detected items below the image.
 
