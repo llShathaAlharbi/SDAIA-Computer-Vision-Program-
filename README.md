@@ -76,4 +76,4 @@ Sample images used for testing Assignment 1 and Assignment 2 can be found in the
 ## 💻 How to Run
 1. Open any notebook (`Assignment_1.ipynb`, Assignment_2.ipynb, or `Assignment_3.ipynb`) directly in Google Colab.
 2. Run the code cells sequentially.
-3.
+3. For Assignment 1 & 2, upload the required test images when prompted during execution.
