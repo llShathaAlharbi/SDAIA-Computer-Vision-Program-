@@ -94,7 +94,7 @@ A comprehensive Computer Vision and Video Analytics pipeline designed for automa
 
 ---
 
-## 📸 Test Images
+## 📸 Test Images & Videos
 Sample images used for testing Assignment 1 and Assignment 2 can be found in the [`images/`](./images) directory:
 * [Download Image 1](./images/image1.jpg)
 * [Download Image 2](./images/image2.jpg)
