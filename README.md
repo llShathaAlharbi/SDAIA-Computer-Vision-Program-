@@ -17,11 +17,11 @@ Welcome to my portfolio for the Computer Vision Program provided by SDAIA Academ
 ## 📂 Repository Structure
 
 * 📁 images/ : Contains test input images for Assignment 1 and Assignment 2.
-* 📜 Assignment_1.ipynb : Pixel Manipulation & Image Filtering.
-* 📜 Assignment_2.ipynb : YOLO26 Object Detection & Natural Language Summary.
-* 📜 Assignment_3.ipynb : CIFAR-10 Classification, YOLO Training & Confusion Matrix Evaluation.
-* 📄 README.md : Documentation and repository overview.
-
+*  Smart-Restaurant-Video-Analytics/ : Main custom project for automated indoor restaurant monitoring & privacy protection.
+* 📄 Assignment_1.ipynb : Pixel Manipulation & Image Filtering.
+* 📄 Assignment_2.ipynb : YOLO Object Detection & Natural Language Summary.
+* 📄 Assignment_3.ipynb : CIFAR-10 Classification, YOLO Training & Confusion Matrix Evaluation.
+* 📄 README.md : Documentation and repository overview
 ---
 
 ##  Smart Restaurant Video Analytics System
