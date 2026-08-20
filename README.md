@@ -24,6 +24,32 @@ Welcome to my portfolio for the Computer Vision Program provided by SDAIA Academ
 
 ---
 
+##  Smart Restaurant Video Analytics System
+
+### 📌 Project Overview
+A comprehensive Computer Vision and Video Analytics pipeline designed for automated indoor restaurant monitoring (specifically tested on fast-food environments like Burger King). The system processes fixed-camera CCTV footage to perform multi-task operational tracking while actively preserving customer privacy.
+
+### 🎯 Key Features & Requirements Met
+1. Queue Counter: Monitors the customer waiting line on the left side using region-based tracking (`ROI`) to count active customers in real-time.
+2. Customer & Staff Tracking: Assigns a unique tracking ID (`track_id`) to individuals within the scene to monitor movement.
+3. Table Occupancy Detection: Automatically analyzes the dining area on the right to distinguish between available and occupied tables.
+4. Crowd Congestion Alert: Triggers a real-time visual warning on the video stream whenever the queue length exceeds a predefined threshold.
+5. Privacy-Preserving Face Anonymization: Automatically detects human faces and applies a Gaussian Blur (`cv2.GaussianBlur`) to protect customer privacy.
+
+### 🛠️ Tech Stack & Libraries
+* Python
+* OpenCV (`cv2`) for frame processing, region drawing, blurring, and text overlays.
+* Ultralytics YOLO (`yolov8n.pt`) for object detection and multi-object tracking.
+* NumPy for spatial coordinate management and polygon testing (`cv2.pointPolygonTest`).
+
+### 🚀 How to Run
+1. Ensure your input video file (e.g., `-2470060199592079249.mov`) is located in the same directory.
+2. Run the processing script in your Google Colab environment:
+   ```bash
+   pip install ultralytics opencv-python numpy
+   python your_script_name.py
+---
+
 ## 📝 Assignments Details
 
 ### 🔹 Assignment 1: Advanced Pixel-Level Manipulation
