@@ -1,5 +1,5 @@
 # Computer Vision Program - Portfolio & Assignments 🚀
-
+[![SDAIA Academy Supported](https://img.shields.io/badge/Supported_By-SDAIA_Academy-007A3D?style=for-the-badge&logo=github)](https://github.com/SDAIAAcademy)
 Welcome to my portfolio for the Computer Vision Program provided by SDAIA Academy ([SDAIA Academy GitHub](https://github.com/SDAIAAcademy)). This repository showcases my practical assignments and projects, ranging from foundational image processing to deep learning classification and object detection models.
 
 ---
